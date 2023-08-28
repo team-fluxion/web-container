@@ -1,0 +1,26 @@
+{
+  "name": "web-container",
+  "version": "0.9.0",
+  "description": "A minimal container to host a web-app with team-fluxion/web-host",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon starter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/team-fluxion/web-container.git"
+  },
+  "bugs": {
+    "url": "https://github.com/team-fluxion/web-container/issues"
+  },
+  "homepage": "https://github.com/team-fluxion/web-container#readme",
+  "keywords": [
+    "template"
+  ],
+  "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1",
+    "nodemon": "2.0.4"
+  }
+}
